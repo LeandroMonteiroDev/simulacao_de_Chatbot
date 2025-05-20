@@ -1,3 +1,4 @@
+Atividadde feita por: Leandro, Evelyn, Clara, Gustavo.
 Este programa é um chatbot interativo simples, feito em Python, que permite ao usuário interagir com um menu de opções para:
 Adicionar novos usuários
 Verificar se um usuário está cadastrado
